@@ -1,5 +1,4 @@
-# desafio-go-codeeducation
-Desafio GO 
+# Desafio GO 
 
 Criar uma imagem com menos de 2mb
 
